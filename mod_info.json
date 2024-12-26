@@ -5,4 +5,5 @@
 	"version":"1.0.1",
 	"description":"Adds 5,945 thematically-appropriate names to Starsector - 2,925 names for NPCs (i.e. captains and officers), and 3,020 names for stellar objects (i.e. stars, planets, and moons)- for the game to use when generating procedural content.",
 	"gameVersion":"0.97a-RC6",
+	"utility": "true",
 }
