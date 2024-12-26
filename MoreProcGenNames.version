@@ -1,0 +1,12 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/wispborne/More-ProcGen-Names/master/MoreProcGenNames.version",
+  "modName": "More ProcGen Names",
+  "modThreadId": "31230",
+  "directDownloadURL": "https://github.com/wispborne/More-ProcGen-Names/releases/latest/download/More-ProcGen-Names.zip",
+  "modVersion":
+    {
+      "major": "1",
+      "minor": "0",
+      "patch": "1"
+    }
+}
