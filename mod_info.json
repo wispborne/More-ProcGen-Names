@@ -2,8 +2,8 @@
 	"id":"more_procgen_names", # internal id
 	"name":"More ProcGen Names", # displayed to the player
 	"author": "Seraphi",
-	"version":"1.0.1",
+	"version":"1.0.2",
 	"description":"Adds 5,945 thematically-appropriate names to Starsector - 2,925 names for NPCs (i.e. captains and officers), and 3,020 names for stellar objects (i.e. stars, planets, and moons)- for the game to use when generating procedural content.",
-	"gameVersion":"0.97a-RC6",
+	"gameVersion":"0.98a-RC7",
 	"utility": "true",
 }
